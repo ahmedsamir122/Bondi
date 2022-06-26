@@ -178,3 +178,7 @@ footer .icon {
 footer span:nth-of-type(1){
     color: var(--green-color);
 }
+.submit input[type='email']:active,
+.submit input[type='email']:focus{
+    outline: none;
+}
