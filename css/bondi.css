@@ -175,3 +175,6 @@ footer .icon {
     width: 35px;
     background-color: #1da1f2;
 }
+footer span:nth-of-type(1){
+    color: var(--green-color);
+}
